@@ -1,0 +1,99 @@
+
+
+.icons{
+    margin-right:4px;
+}
+.main{
+padding-bottom:41.2%;
+    /* background: url(kitten.jpg); */
+    margin-top:-20px;
+    text-align: center;
+    width: 100%;
+    
+}
+
+
+/* Gradient transparent - color - transparent */
+
+    
+.content{
+    text-align: center;
+   padding-top:25%;
+   color:white;
+   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+                0px 8px 13px rgba(0, 0, 0, 0.1),
+                0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+body{
+    background: url(kitten.jpg);    
+    background-size:cover ;
+    background-position: center;
+    image-rendering: pixelated;
+    
+}
+.hr-one{
+    width: 35%;
+    border-top:1px solid #f8f8f8 ;
+    border-bottom:1px solid rgba(0, 0, 0, 0.2) ;
+}
+.first{
+    margin-left:190px;
+    
+    
+}
+.clip-text:hover{
+background: url(https://media.giphy.com/media/3ohs7N5jy7ox37AbQc/giphy.gif);
+background-size:cover;
+background-position:center ;
+/* border: 2px solid red; */
+-webkit-background-clip:text;
+color:transparent;
+}
+.clip-text4:hover{
+    background: url(https://media.giphy.com/media/8P4SOF8D1tZfOzNAPu/giphy.gif);
+    background-size:cover;
+    background-position:center ;
+    /* border: 2px solid red; */
+    /* -webkit-background-clip:text; */
+    }
+.clip-text2:hover{
+    
+    background: url(https://media.giphy.com/media/KcnbWfsuFr7JpgowGT/giphy.gif);
+    background-size:cover;
+    background-position:center ;
+    -webkit-background-clip:text;
+color:transparent;
+
+
+    
+    }
+.clip-text3{
+
+    background: linear-gradient(to left,rgb(112,101,214),rgb(230,106,213));
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline;
+    /* inline takes only the space specifiecd for the text inside of that particualr line */
+}
+
+.icons{
+    margin-right:4px;
+}
+.navbar-right{
+    margin-right:120px ;
+}
+h1{
+    font-weight:700;
+    font-size:5.0em;
+}
+html{
+    height: 100%;
+}
+
+/* shadows in css */
+/* offset x, offset y blur radius ,color */
+/* html{
+    background: black;
+    filter:invert(1);
+}
+darkmore */
